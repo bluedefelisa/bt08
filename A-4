@@ -1,0 +1,4 @@
+# bt08
+ A-4:
+ 
+ Ta cần cấp phát bộ nhớ trước khi sử dụng char **s nên ta gán giá trị cho **s
